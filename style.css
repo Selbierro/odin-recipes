@@ -1,0 +1,39 @@
+*{
+    font-family:'Courier New', Courier, monospace;
+    
+}
+
+.header{
+    text-align: center;
+    background-color: aquamarine;
+    border-radius: 10px;
+    border-color: black;
+}
+img{
+    width: 310px;
+    height: auto;
+    
+}
+
+
+.recipes{
+    display: block;
+    background-color: gray;
+    border-radius: 5px;
+    padding: 5px;
+}
+.ingridients, .steps{
+    box-sizing: content-box;
+    display: block;
+    border: 10px;
+    padding: 10px;
+}
+p{
+    border: 10px;
+    background-color: gray;
+}
+
+/* .recipes > div{
+    padding: 5px;
+    text-align: center;
+} */
